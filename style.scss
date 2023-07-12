@@ -1,3 +1,11 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.aaa{
+    width: 100%;
+    height: 100%;
+}
 .d1{
     width: 900px;
 }
@@ -292,6 +300,7 @@ background: #0FE3AF;
 }
 .rasm{
     display: flex;
+    display: block;
 }
 .ml{
     margin-left: 68px;
